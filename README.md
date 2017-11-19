@@ -7,14 +7,12 @@ Application of Geoinformatics technology for Mapping Air Pollution
 1. To visualize air pollution level
 2. To analyze the risk area that could affect public health
 
-## Tools and data
-
-# 1.Software
+## Software
 * QGIS Desktop 2.18
 * SQLyog Community
 * PostGIS, PostgREST
 * Google Earth Pro
-# 2.Data
+## Data
 * Dust particles (pm2_5value, pm10_value)
 * Coorinates (latitude and longitude)
 * Date and time (timestamp)
