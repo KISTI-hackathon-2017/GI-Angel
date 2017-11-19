@@ -4,8 +4,8 @@ Application of Geoinformatics technology for Mapping Air Pollution
 
 ## Overview
 
-1  To visualize air pollution level
-2  To analyze the risk area that could affect public health
+1 To visualize air pollution level
+2 To analyze the risk area that could affect public health
 
 ## Tools and data
 
