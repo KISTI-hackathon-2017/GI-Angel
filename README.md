@@ -1,4 +1,4 @@
-### GI - Angle
+# GI - Angle
 
 ## Application of Geoinformatics technology for Mapping Air Pollution
 
