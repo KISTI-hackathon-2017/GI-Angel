@@ -16,15 +16,15 @@ The size of the dust that is harmful to humans, it is located at 101 micron to 5
 
 ## Tools and data
 1. Software
--* QGIS Desktop 2.18
--* SQLyog Community
--* PostGIS, PostgREST
--* Google Earth Pro
+- QGIS Desktop 2.18
+- SQLyog Community
+- PostGIS, PostgREST
+- Google Earth Pro
 2. Data
-       * Dust particles (pm2_5value, pm10_value)
-       * Coorinates (latitude and longitude)
-       * Date and time (timestamp)
-       * Houses/parcel map (Google Earth Pro)
+- Dust particles (pm2_5value, pm10_value)
+- Coorinates (latitude and longitude)
+- Date and time (timestamp)
+- Houses/parcel map (Google Earth Pro)
 
 
 ## Methology
